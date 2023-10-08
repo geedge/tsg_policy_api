@@ -1,0 +1,3 @@
+"shunt","1.1.1.1","","","client_is_local","","allow","1.1.1.1","https","sni","","streaming"
+"shunt","","","","","","deny","1.1.1.1","","","",""
+"allow","1.1.1.1","https","sni","client_is_local","","deny","1.1.1.1","https","sni","client_is_local",""
